@@ -29,10 +29,12 @@
 - [ ] My change requires a change to the documentation.
 - [ ] I have added / updated the documentation related to this change via either README or WIKI
 
-- [ ] (SOFTWARE) I have added tests to cover my changes.
-- [ ] (SOFTWARE) All new and existing tests passed.
-- [ ] (SOFTWARE) My code follows the code style of this project.
+### Software
+- [ ] I have added tests to cover my changes.
+- [ ] All new and existing tests passed.
+- [ ] My code follows the code style of this project.
 
-- [ ] (HARDWARE) I have updated the design files (schematic, board, libraries).
-- [ ] (HARDWARE) I have attached the PDFs of the SCH / BRD to this PR
-- [ ] (HARDWARE) I have updated the design output (GERBER, BOM) files.
+### Hardware
+- [ ] I have updated the design files (schematic, board, libraries).
+- [ ] I have attached the PDFs of the SCH / BRD to this PR
+- [ ] I have updated the design output (GERBER, BOM) files.
