@@ -1,10 +1,3 @@
----
-name: Pull Request
-about: Create a pull request to merge updates into our codebase
-title: ''
-assignees:
-
----
 <!--- Provide a general summary of your changes in the Title above -->
 
 ## Description
