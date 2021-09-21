@@ -5,6 +5,11 @@ Welcome to `Applied Innovation` - a division of
 systems developed as medical and assistive technology for manual and
 power wheelchair users.
 
+If you're a member of Applied Innovation, you should checkout our
+[getting-started](https://github.com/appliedinnovation/getting-started)
+page which explains a little more what projects we work on and where
+the project files are stored.
+
 Our products and research involve the following technologies:
 * Brushless DC Motors (including brakes)
 * Induction Motors (including motor design)
