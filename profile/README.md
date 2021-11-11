@@ -19,7 +19,7 @@ Our products and research involve the following technologies:
   RTOS such as FreeRTOS)
 * Application development - for off-the-shelf devices such as phones,
   tablets, computers, watches - using NativeScript, Unreal Engine,
-  Java, Swift
+  and native (Java, Swift)
 * Machine Learning (ML) using TensorFlow and Torch
 * Human Activity Recognition (HAR) / Gesture Detection
 * Computer Vision and robot perception
