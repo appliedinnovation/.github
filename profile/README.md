@@ -15,7 +15,7 @@ Our products and research involve the following technologies:
 * Induction Motors (including motor design)
 * Lithium-ion batteries (including battery management board)
 * Electronics Design (schematic & board layout) using Autodesk Eagle
-* Firmwware development (embedded c/c++ - both bare metal and using
+* Firmware development (embedded c/c++ - both bare metal and using
   RTOS such as FreeRTOS)
 * Application development - for off-the-shelf devices such as phones,
   tablets, computers, watches - using NativeScript, Unreal Engine,
