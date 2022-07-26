@@ -31,6 +31,7 @@
 
 ### Software
 - [ ] I have added tests to cover my changes.
+- [ ] I have updated the `.github/workflows/build.yml` file to add my new test to the automated cloud build github action.
 - [ ] All new and existing tests passed.
 - [ ] My code follows the code style of this project.
 
